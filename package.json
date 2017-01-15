@@ -1,0 +1,28 @@
+{
+  "name": "gimci-api",
+  "version": "0.0.1",
+  "description": "later to be mentioned",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimci/gimci-api.git"
+  },
+  "keywords": [
+    "gimci",
+    "api"
+  ],
+  "author": "enginehenryed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimci/gimci-api/issues"
+  },
+  "homepage": "https://github.com/gimci/gimci-api#readme"
+}
